@@ -1,6 +1,5 @@
 {
   "name": "excursion",
-  "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
@@ -32,7 +31,6 @@
     "expo-location": "~18.0.10",
     "expo-maps": "^0.7.3",
     "expo-notifications": "~0.29.14",
-    "expo-router": "~4.0.20",
     "expo-splash-screen": "~0.29.24",
     "expo-status-bar": "~2.0.1",
     "expo-symbols": "~0.2.2",
